@@ -1,5 +1,4 @@
-This is the simple HTML code i want to use to generate the treemap graphic for the extension Statistical Data Viewer
-[ The size of the rectagles corresponds with the ammount of data stored on IPFS ]
+This is the simple HTML code i want to use to generate the treemap graphic for the extension Statistical Data Viewer. The size of the rectagles corresponds with the ammount of data stored on IPFS.
 - https://github.com/noryev/IPFS-Stat-Viewer
 - https://d3-graph-gallery.com/graph/treemap_json.html
 
